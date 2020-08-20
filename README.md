@@ -9,7 +9,7 @@ Clone của anh [huynhminhtufu](https://github.com/huynhminhtufu/commit-branch-p
 Clone repositories
 
 ```
-git clone https://github/harrytran998/commit-branch-prefix.git $ZSH_CUSTOM/plugins/commit-branch-prefix
+git clone https://github.com/harrytran998/commit-branch-prefix.git $ZSH_CUSTOM/plugins/commit-branch-prefix
 ```
 
 Open zsh config to find plugins=(git)
