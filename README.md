@@ -1,10 +1,6 @@
 # Git commit branch prefix
 
-Save your time with `Git commit branch prefix` and you'll never miss the commit prefix!
-
-![Demo](./screenshot.png)
-
-(WIP) Upcoming feature: **One command to add pre-commit-message your repository's git hooks**
+Clone của anh [huynhminhtufu](https://github.com/huynhminhtufu/commit-branch-prefix) :)) Vì có cái text in ra cuối cùng hơi khó chịu 👻
 
 ## Install
 
@@ -13,7 +9,7 @@ Save your time with `Git commit branch prefix` and you'll never miss the commit 
 Clone repositories
 
 ```
-git clone git@github.com:huynhminhtufu/commit-branch-prefix.git $ZSH/plugins/commit-branch-prefix
+git clone git@github.com:harrytran998/commit-branch-prefix.git $ZSH/plugins/commit-branch-prefix
 ```
 
 Update your plugins array:
@@ -25,7 +21,7 @@ plugins=(... commit-branch-prefix)
 ### Typical Bash
 
 ```
-curl -s https://raw.githubusercontent.com/huynhminhtufu/commit-branch-prefix/master/bash-install.sh | sudo bash /dev/stdin
+curl -s https://raw.githubusercontent.com/harrytran998/commit-branch-prefix/master/bash-install.sh | sudo bash /dev/stdin
 ```
 
 ## How to use

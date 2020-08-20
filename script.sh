@@ -10,5 +10,4 @@ else
 fi
 commitMsg="${prefix}$msg"
 git commit -m "$commitMsg" || exit 1
-echo "Done by https://github.com/huynhminhtufu/commit-branch-prefix"
 exit 0
